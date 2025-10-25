@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi, I'm Jonel Pangan! 
+I’m an aspiring programmer with experience in **Java** and **C**, currently expanding my skills by learning **Python** and **Object-Oriented Programming (OOP)**.
 
-<!--
-**jpangan23/jpangan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😎 ABOUT ME
+- I enjoy learning new programming languages.🖥️ 
+- I like solving coding problems and improving my skills.💻🖱️
+- I like playing basketball.🏀
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills
+- **Languages:** Java, C, Python (learning)  
+- **Concepts:** Object-Oriented Programming 
+  
